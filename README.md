@@ -1,2 +1,2 @@
 # practise
-Projects to learn and improve my skills, mainly google competition questions.
+This repository is mainly for the python problems I've solved. Mostly Google Coding Competition Problems.
